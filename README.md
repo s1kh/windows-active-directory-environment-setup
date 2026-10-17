@@ -42,7 +42,7 @@ tested all access control policies.
   enterprise network
 
 ## Documentation
-See [`docs/`](./docs) for the full written report and supporting screenshots of each
+See [`docs/report.pdf`](./docs/report.pdf) for the full written report and supporting screenshots of each
 configuration and validation step.
 
 ## Disclaimer
