@@ -1,5 +1,3 @@
-# windows-active-directory-environment-setup
-
 # Windows Active Directory Environment Setup
 
 ## Overview
